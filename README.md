@@ -1,1 +1,1 @@
-# horrormod3-build
+# horrormod-build
